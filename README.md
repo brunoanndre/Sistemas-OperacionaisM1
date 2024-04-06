@@ -1,4 +1,4 @@
-**Projeto 1**
+**Projeto 1**\n
 **Problemática:** uma Indústria de Alimentos de Santa Catarina chamada FoodSec S.A. possui a
 tarefa de escanear alimentos por meio de câmeras e verificar se os mesmos estão corretos. Os
 alimentos podem passar por uma das três esteiras disponíveis. As três esteiras são controladas
