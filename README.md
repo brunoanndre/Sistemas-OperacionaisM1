@@ -1,4 +1,4 @@
-**Projeto 1**\n
+**Projeto 1**
 **Problemática:** uma Indústria de Alimentos de Santa Catarina chamada FoodSec S.A. possui a
 tarefa de escanear alimentos por meio de câmeras e verificar se os mesmos estão corretos. Os
 alimentos podem passar por uma das três esteiras disponíveis. As três esteiras são controladas
@@ -31,7 +31,7 @@ Diante da problemática apresentada, vocês terão que implementar uma aplicaç�
 MVP) que possa lidar com tal situação usando duas abordagens: Pthreads e IPC entre
 processos com pipe. No processo que utiliza threads, lembre-se de utilizar mutex ou semáforo
 para controlar o acesso das seções críticas.
-Pontuação Extra na M1
+**Pontuação Extra na M1**
 A utilização da biblioteca OpenMP para contagem do peso total usando o vetor de 1500 valores
 irá receber de 0,5 à 1,5 pontos na prova da M1. A nota extra fica a critério do professor em
 avaliar o contexto de aplicação, bem como a qualidade do código e aplicabilidade.
