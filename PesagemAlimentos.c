@@ -10,7 +10,7 @@
 #include <ncurses.h>
 #include <signal.h>
 //quantidade que será feito a pausa para a atualização do peso total
-#define qtdMaxItens  200
+#define qtdMaxItens  1500
 void sighandler(int);
 
 
