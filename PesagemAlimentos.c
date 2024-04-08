@@ -79,7 +79,6 @@ void display(){
         printf("\n");
         printf("-------------------------------------------------------\n");
         printf("Iniciando pesagem total...\n");
-        sleep(3);
         printf("Peso total: %.2f kg\n",pesoTotal);
         printf("Pesagem total concluída! Continuando a contagem...\n");
         printf("-------------------------------------------------------\n");
