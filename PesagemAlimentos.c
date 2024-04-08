@@ -132,7 +132,7 @@ int main(){
             //Calcular o peso total
             if(total >= qtdMaxItens){
                 //calculaPesoTotal();
-                #pragma omp for
+                #pragma omp for reduction(+:pesoTotal)
                 for(int i = 0; i < total; i++){
                     pesoTotal += pesos[i];
                 }
