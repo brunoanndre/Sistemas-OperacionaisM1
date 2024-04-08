@@ -10,7 +10,7 @@
 #include <ncurses.h>
 #include <signal.h>
 
-#define qtdMaxItens  200
+#define qtdMaxItens  1500
 
 void sighandler(int);
 
